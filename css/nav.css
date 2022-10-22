@@ -1,0 +1,33 @@
+.navigation {
+    height: 70px;
+    max-width: 975px;
+    margin: 0 auto;
+    padding: 0 20px;
+    background-color: white;
+
+    display: flex;
+    flex-grow: 1;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#nav-logo {
+    height: 33px;
+    width: 268px;
+
+}
+
+.nav-items {
+    list-style: none;
+    display: flex;
+}
+
+.nav-item {
+     padding: 0 9px;
+     font-size: 15px;
+}
+
+.nav-link{
+    text-decoration: none;
+    color: #ababab;
+}
