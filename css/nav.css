@@ -23,8 +23,13 @@
 }
 
 .nav-item {
-     padding: 0 9px;
+     padding: 0.5em 9px;
      font-size: 15px;
+     border-radius: 5px;
+}
+
+.nav-link:hover {
+    color: #00839b;
 }
 
 .nav-link{
