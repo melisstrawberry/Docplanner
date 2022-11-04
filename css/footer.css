@@ -1,0 +1,20 @@
+.footer {
+    border-top: 1px solid #eef2f2;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    line-height: 25px;
+    padding: 16px 0;
+    color: #ABABAB;
+    height: 90px;
+    text-align: center;
+ }
+
+#footer-text {
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+
+.footer-link {
+    color: #3D83DF;
+    text-decoration: none;
+}

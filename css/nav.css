@@ -4,7 +4,6 @@
     margin: 0 auto;
     padding: 0 20px;
     background-color: white;
-
     display: flex;
     flex-grow: 1;
     align-items: center;
@@ -14,7 +13,6 @@
 #nav-logo {
     height: 33px;
     width: 268px;
-
 }
 
 .nav-items {
@@ -29,10 +27,15 @@
 }
 
 .nav-link:hover {
-    color: #00839b;
+    color: #00b39b;
 }
 
-.nav-link{
+.nav-link {
     text-decoration: none;
     color: #ababab;
+}
+
+#about-us{
+    text-decoration: none;
+    color: #00b39b;
 }
